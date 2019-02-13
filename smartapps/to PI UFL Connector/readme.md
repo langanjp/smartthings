@@ -5,4 +5,4 @@
    - If you need a free certificate, you may want to try Let's Encrypt
 3. Create a smart app using [toPIUFL.groovy](toPIUFL.groovy)
 ### Known Issues
-1. The UFL configuration only accepts real values.  This means that the switch will error out as it sends off and on.  The next version of the ULF configuration and SmartApp will address this issue.
+1. The UFL configuration only accepts real values.  This means that the switch will error out as it sends off and on.  The next version of the UFL configuration and SmartApp will address this issue.
